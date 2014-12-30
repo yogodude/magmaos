@@ -15,11 +15,11 @@
         url = "https://raw.github.com/yogodude/magmaos/"..branch.."/magmaos-install.lua"
       },
       {
-        name = "openbee",
+        name = "startup",
         url = "https://raw.github.com/yogodude/magmaos/"..branch.."/startup.lua"
       },
       {
-        name = "matron",
+        name = "chat",
         url = "https://raw.github.com/yogodude/magmaos/"..branch.."/chat.lua"
       }
     }
